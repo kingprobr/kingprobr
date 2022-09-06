@@ -19,10 +19,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/90939363?s=400&u=f6181fe6dad50adfadec184d1b2662caa0cab126&v=4"  />
-
-###
-
 <p align="left">- My Social Medias</p>
 
 ###
